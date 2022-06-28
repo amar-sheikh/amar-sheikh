@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amar-sheikh
+- 👋 Hi, I’m @umar-sheikh
 - 👀 I’m interested in ruby on rails
 
 <!---
