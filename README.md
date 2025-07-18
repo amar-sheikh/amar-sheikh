@@ -1,6 +1,6 @@
 👋 Hi, I’m Umar Sheikh — a senior full-stack developer with a focus on clean, scalable backend systems.
 
-💻 I specialize in Ruby on Rails, PostgreSQL, and background jobs (Sidekiq, Redis), with production experience across startups and SaaS platforms.
+💻 I specialize in Ruby on Rails, Python, PostgreSQL, and background jobs (Sidekiq, Redis), with production experience across startups and SaaS platforms.
 
 🔧 I enjoy fixing legacy codebases, building internal tools, and shipping features that actually move the needle.
 
